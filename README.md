@@ -1,6 +1,6 @@
 # SKD1108: Công cụ Đánh giá Thực nghiệm
 
-Kho lưu trữ này chứa bộ công cụ tự động chạy kiểm thử và tập dữ liệu phục vụ cho Đề tài nghiên cứu khoa học: **"Nghiên cứu thực nghiệm và đánh giá hiệu quả của GitHub Copilot trong việc tối ưu hóa quy trình gỡ lỗi (Debugging) mã nguồn C++."**
+Kho lưu trữ này chứa bộ công cụ tự động chạy kiểm thử và tập dữ liệu phục vụ cho Đề tài nghiên cứu khoa học: **"Nghiên cứu thực nghiệm và đánh giá hiệu quả của GitHub Copilot trong việc tối ưu hóa quy trình gỡ lỗi mã nguồn C++."**
 
 - **Học phần:** Phương pháp luận Nghiên cứu khoa học (SKD1108)
 - **Giảng viên hướng dẫn:** ThS. Trần Thị Tuyết Nhung
