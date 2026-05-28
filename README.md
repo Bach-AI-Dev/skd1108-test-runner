@@ -54,4 +54,4 @@ pip install psutil
   `python chambai.py`
 - Tuân thủ các chỉ dẫn trên màn hình (nhập ID Sinh viên, Mã bài toán) để hệ thống tự động biên dịch, đối chiếu kết quả (Output) và ghi nhận log thực nghiệm.
 
-***Minh chứng mã nguồn thuộc Phụ lục Tiểu luận cuối kỳ môn PP Nghiên cứu Khoa học.***
+***Minh chứng mã nguồn thuộc Phụ lục Tiểu luận cuối kỳ môn PPL Nghiên cứu Khoa học.***
