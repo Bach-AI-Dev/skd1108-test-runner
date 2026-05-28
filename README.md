@@ -1,4 +1,4 @@
-# SKD1108: Công cụ Đánh giá Thực nghiệm)
+# SKD1108: Công cụ Đánh giá Thực nghiệm
 
 Kho lưu trữ này chứa bộ công cụ tự động chạy kiểm thử và tập dữ liệu phục vụ cho Đề tài nghiên cứu khoa học: **"Nghiên cứu thực nghiệm và đánh giá hiệu quả của GitHub Copilot trong việc tối ưu hóa quy trình gỡ lỗi (Debugging) mã nguồn C++."**
 
