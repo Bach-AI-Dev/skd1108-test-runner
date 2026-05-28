@@ -13,7 +13,7 @@ except ImportError:
     exit(1)
 
 # --- CẤU HÌNH TIÊU CHUẨN ĐÁNH GIÁ ---
-STANDARD_OPS_LIMIT = 10_000_000_00 #10 triệu phép tính
+STANDARD_OPS_LIMIT = 1_000_000_000 #1 tỷ phép tính
 STANDARD_TIME_SEC = 1.0 
 
 # Các giới hạn khác
