@@ -29,4 +29,29 @@ Thư viện phụ thuộc: Script yêu cầu psutil để giám sát dung lượ
 Bash
 pip install psutil
 
+## Hướng dẫn Thực nghiệm và Vận hành
+
+Để tái lập quá trình đánh giá thực nghiệm trên máy tính cục bộ (local machine), vui lòng thực hiện tuần tự các bước sau:
+
+**Bước 1: Sao chép Kho lưu trữ (Clone/Download Repository)**
+- Tải toàn bộ mã nguồn và tập dữ liệu về máy tính bằng cách nhấn chọn `Code` -> `Download ZIP` (hoặc sử dụng lệnh `git clone`). 
+- Tiến hành giải nén thư mục.
+
+**Bước 2: Thiết lập Môi trường Dòng lệnh (CLI)**
+- Mở Giao diện dòng lệnh (Command Prompt / Terminal) trên hệ điều hành của bạn.
+- Sử dụng lệnh `cd` (Change Directory) để điều hướng đường dẫn tới thư mục gốc của dự án vừa giải nén.
+
+**Bước 3: Khởi tạo Các thành phần phụ thuộc (Dependencies)**
+- Đảm bảo hệ thống đã cài đặt Python. Khởi tạo thư viện giám sát tài nguyên bộ nhớ bằng lệnh:
+  `pip install psutil`
+
+**Bước 4: Thực hiện Quy trình Gỡ lỗi (Debugging)**
+- Người tham gia thực nghiệm mở các tệp mã nguồn C++ (ví dụ: `bai01.cpp`, `bai02.cpp`...) bên trong các thư mục bài toán tương ứng.
+- Tiến hành phân tích và vá lỗi (fix bugs) trực tiếp trên các tệp này, sau đó lưu lại.
+
+**Bước 5: Khởi chạy Kịch bản Đánh giá (Evaluation Script)**
+- Quay trở lại Terminal, thực thi tập lệnh chấm điểm tự động bằng lệnh:
+  `python chambai.py`
+- Tuân thủ các chỉ dẫn trên màn hình (nhập ID Sinh viên, Mã bài toán) để hệ thống tự động biên dịch, đối chiếu kết quả (Output) và ghi nhận log thực nghiệm.
+
 ***Minh chứng mã nguồn thuộc Phụ lục Tiểu luận cuối kỳ môn PP Nghiên cứu Khoa học.***
