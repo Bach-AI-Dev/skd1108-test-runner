@@ -28,3 +28,5 @@ Thư viện phụ thuộc: Script yêu cầu psutil để giám sát dung lượ
 
 Bash
 pip install psutil
+
+***Minh chứng mã nguồn thuộc Phụ lục Tiểu luận cuối kỳ môn PP Nghiên cứu Khoa học.***
