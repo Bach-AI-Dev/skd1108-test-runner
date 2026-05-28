@@ -14,7 +14,7 @@ except ImportError:
 
 # --- CẤU HÌNH TIÊU CHUẨN ĐÁNH GIÁ ---
 # Bạn yêu cầu chuẩn: phép tính tương đương giới hạn 1 giây
-STANDARD_OPS_LIMIT = 5_000_000_00
+STANDARD_OPS_LIMIT = 10_000_000_00
 STANDARD_TIME_SEC = 1.0 
 
 # Các giới hạn khác
