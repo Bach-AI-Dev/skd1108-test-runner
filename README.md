@@ -9,7 +9,7 @@ Kho lưu trữ này chứa bộ công cụ tự động chạy kiểm thử và 
 ## 🎯 Chức năng cốt lõi
 
 Tập lệnh Python (`chambai.py`) được thiết kế để đảm bảo tính khách quan tối đa cho các chỉ số đo lường trong nghiên cứu định lượng:
-1. **Tự động Hiệu chuẩn (CPU Calibration):** Tự động đo lường và đồng bộ tốc độ xử lý của máy tính để thiết lập giới hạn thời gian (TLE) công bằng (chuẩn 10^8 phép tính/giây).
+1. **Tự động Hiệu chuẩn (CPU Calibration):** Tự động đo lường và đồng bộ tốc độ xử lý của máy tính để thiết lập giới hạn thời gian (TLE) (chuẩn 10^9 phép tính/giây).
 2. **Giám sát Môi trường Động:** Bắt chính xác các lỗi tràn bộ nhớ (Memory Limit Exceeded - 200MB) bằng `psutil`.
 3. **Phân loại Lỗi Tiêu chuẩn:** Tự động phân loại 7 trạng thái mã nguồn theo chuẩn lập trình thi đấu (AC, WA, TLE, MLE, OLE, RTE, CE).
 4. **Tự động Ghi nhận:** Xuất kết quả chi tiết của từng đối tượng thực nghiệm ra file `logs.csv`.
